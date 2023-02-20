@@ -8,7 +8,7 @@ This is a teacher management app made with flutter.
 
 **<H1>Screen-shot</H1>**
 
-<table>'
+<table>
   <tr>
     <th> <img src="https://firebasestorage.googleapis.com/v0/b/classapp-f7ed3.appspot.com/o/quanlyvipham%2F1.png?alt=media&token=c4cc6285-8fc0-431a-919f-f90cdc668a74"  alt="Teacher Management Img" width = 360px height = 640px ></th>
     <th> <img src="https://firebasestorage.googleapis.com/v0/b/classapp-f7ed3.appspot.com/o/quanlyvipham%2F2.png?alt=media&token=31f3919d-2d50-4e68-9ff3-054fa373a0da"  alt="Teacher Management Img" width = 360px height = 640px ></th>
