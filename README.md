@@ -1,5 +1,4 @@
 # Teacher Management App made in Flutter with Sqlite database
-##
 This is a teacher management app made with flutter.
 **<H1>Plugin</H1>**
 1. Provider : https://pub.dev/packages/provider
